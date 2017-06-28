@@ -1,0 +1,1 @@
+1 page showing jumbotron and 2 rows of images with intro text using bootstrap
