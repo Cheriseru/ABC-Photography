@@ -33,4 +33,8 @@ nav a {
   width: 90%;
 }
 
+#Gallery .row{
+  margin-bottom: 1em;
+}
+
 /*footer*/
