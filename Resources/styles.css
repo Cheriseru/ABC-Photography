@@ -1,0 +1,36 @@
+
+/*Universal styles*/
+body{
+
+}
+
+h1 {
+  text-align: center;
+}
+/*top fixed navigation*/
+nav a {
+  font-size: 2em;
+}
+/*jumbotron with heading ontop*/
+.jumbotron {
+  background-image: url(./Images/OutsideFrontOfCottage.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jumbotron .container {
+  color: white;
+  background: rgb(0, 0, 0); /* Fall-back for browsers that don't support rgba */
+  background: rgba(0, 0, 0, .5);
+}
+
+/*intro text*/
+#AboutMe {
+  width: 80%;
+}
+/*2 rows of 3 images with hover over descriptions*/
+#Gallery {
+  width: 90%;
+}
+
+/*footer*/
